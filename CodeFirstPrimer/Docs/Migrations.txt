@@ -1,0 +1,5 @@
+﻿Enable-Migrations -ContextTypeName NhlContext -MigrationsDirectory Migrations\NHL
+
+add-migration -ConfigurationTypeName CodeFirstPrimer.Migrations.NHL.Configuration "InitialCreate"
+
+update-database -ConfigurationTypeName CodeFirstPrimer.Migrations.NHL.Configuration 
