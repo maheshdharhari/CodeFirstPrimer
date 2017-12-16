@@ -43,6 +43,5 @@ C:\Users\Mahesh Kr. Yadav\Documents\Visual Studio 2017\Projects\CodeFirstPrimer\
 C:\Users\Mahesh Kr. Yadav\Documents\Visual Studio 2017\Projects\CodeFirstPrimer\CodeFirstPrimer\bin\EntityFramework.SqlServer.dll
 C:\Users\Mahesh Kr. Yadav\Documents\Visual Studio 2017\Projects\CodeFirstPrimer\CodeFirstPrimer\bin\EntityFramework.xml
 C:\Users\Mahesh Kr. Yadav\Documents\Visual Studio 2017\Projects\CodeFirstPrimer\CodeFirstPrimer\bin\EntityFramework.SqlServer.xml
-C:\Users\Mahesh Kr. Yadav\Documents\Visual Studio 2017\Projects\CodeFirstPrimer\CodeFirstPrimer\obj\Debug\CodeFirstPrimer.csprojResolveAssemblyReference.cache
 C:\Users\Mahesh Kr. Yadav\Documents\Visual Studio 2017\Projects\CodeFirstPrimer\CodeFirstPrimer\obj\Debug\CodeFirstPrimer.Migrations.NHL.InitialCreate.resources
 C:\Users\Mahesh Kr. Yadav\Documents\Visual Studio 2017\Projects\CodeFirstPrimer\CodeFirstPrimer\obj\Debug\CodeFirstPrimer.csproj.GenerateResource.Cache
